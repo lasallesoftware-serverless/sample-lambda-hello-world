@@ -30,12 +30,11 @@
 
 <br>
 
-Software and information in this, and in my other, sample repo:
+Software and information in sample PHP Lambda repos:
 - are for pedagogical purposes only
 - may be out of date
 - may contain errors and/or omissions
 - may change without notice
-- is not necessarily designed to run as fast as possible within Lambda
-- is not necessarily designed to cause the least AWS charges
-- does not optimize AWS settings to cause the least AWS charges
-- does not optimize AWS security
+- are not optimized to run as fast as possible within Lambda
+- are not optimized to cause the least AWS charges
+- are not optimized for security
