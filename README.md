@@ -1,15 +1,7 @@
 <h1 align="center">PHP Serverless Project's Sample Lambda: Hello World </h1>
 
 <p align="center">
-    <strong>create your "Hello World" PHP Lambda function with the Serverless Framework and Bref</strong>
-</p>
-
-<hr>
-
-<p align="center">
-    <a href="https://github.com/lasallesoftware-serverless/sample-lambda-hello-world"><img src="http://img.shields.io/badge/source-https://github.com/lasallesoftware-serverless/sample-lambda-hello-world-blue.svg?style=flat-square" alt="Source Code"></a>
-    <a href="https://php.net"><img src="https://img.shields.io/packagist/php-v/lasallesoftware-serverless/sample-lambda-hello-world.svg?style=flat-square&colorB=%238892BF" alt="PHP Programming Language"></a>
-    <a href=https://github.com/lasallesoftware-serverless/sample-lambda-hello-world/blob/master/LICENSE.md"><img src="https://img.shields.io/packagist/l/lasallesoftware-serverless/sample-lambda-hello-world.svg?style=flat-square&colorB=darkcyan" alt="Read License"></a>
+    <strong>Sample "Hello World" PHP Lambda function made with the Serverless Framework and Bref</strong>
 </p>
 
 <hr>
