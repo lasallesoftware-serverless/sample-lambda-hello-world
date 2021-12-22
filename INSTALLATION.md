@@ -138,7 +138,18 @@ To modify the serverless.yml file, please follow the inline comments.
 <br>
 <hr>
 
-## (9) Deploy your code to the AWS serverless platform
+## (9) Modify the src/Handler.php, and/or other src/* files
+
+<br>
+
+The src/Handler.php, or src/Form.php, or other src/*.php file, may have vars for you to set correctly. 
+
+Please follow the inline comments.
+
+<br>
+<hr>
+
+## (10) Deploy your code to the AWS serverless platform
 
 <br>
 
@@ -156,7 +167,7 @@ serverless deploy
 <br>
 <hr>
 
-## (10) Look at your AWS Console
+## (11) Look at your AWS Console
 
 <br>
 
@@ -166,3 +177,4 @@ See your new Lambda function in the AWS Console:
 - CloudFormation dashboard
 - API Gateway dashboard
 - IAM dashboard
+- sometimes the SES, SNS, and other dashboards
