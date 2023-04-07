@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": "^8.0",
-        "bref/bref": "^1.7"
+        "bref/bref": "^2.0"
     },
     "config": {
         "optimize-autoloader": true,
